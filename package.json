@@ -1,5 +1,5 @@
 {
-  "name": "yarn-plugin-helloworld",
+  "name": "yarn-plugin-dev-tool",
   "main": "./sources/index.ts",
   "scripts": {
     "build": "builder build plugin"

@@ -15250,9 +15250,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yarn-plugin-helloworld@workspace:.":
+"yarn-plugin-dev-tool@workspace:.":
   version: 0.0.0-use.local
-  resolution: "yarn-plugin-helloworld@workspace:."
+  resolution: "yarn-plugin-dev-tool@workspace:."
   dependencies:
     "@types/ink": ^2.0.3
     "@types/lodash": ^4.14.191
