@@ -1,0 +1,26 @@
+{
+  "name": "yarn-plugin-helloworld",
+  "main": "./sources/index.ts",
+  "scripts": {
+    "build": "builder build plugin"
+  },
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "@types/ink": "^2.0.3",
+    "@types/node": "^16.0.0",
+    "@types/react": "^18.0.28",
+    "@yarnpkg/builder": "^4.0.0-rc.40",
+    "@yarnpkg/cli": "^4.0.0-rc.40",
+    "@yarnpkg/core": "^4.0.0-rc.40",
+    "@yarnpkg/fslib": "^3.0.0-rc.40",
+    "@yarnpkg/libui": "^3.0.0-rc.40",
+    "clipanion": "^3.2.0-rc.10",
+    "ink": "^3.0.8",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "@zcloak/dev": "^0.23.1"
+  }
+}
